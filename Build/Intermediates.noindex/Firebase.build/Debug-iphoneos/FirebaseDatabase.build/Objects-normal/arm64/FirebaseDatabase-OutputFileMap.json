@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.dia",
+    "emit-module-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master-emit-module.dia",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.swiftdeps"
+  },
+  "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/DatabaseReference+WriteEncodable.swift" : {
+    "const-values" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.swiftconstvalues",
+    "dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.d",
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.dia",
+    "index-unit-output-path" : "/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.o",
+    "llvm-bc" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.bc",
+    "object" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.o",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.swiftdeps",
+    "swiftmodule" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable~partial.swiftmodule"
+  },
+  "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/DataSnapshot+ReadDecodable.swift" : {
+    "const-values" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.swiftconstvalues",
+    "dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.d",
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.dia",
+    "index-unit-output-path" : "/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.o",
+    "llvm-bc" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.bc",
+    "object" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.o",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.swiftdeps",
+    "swiftmodule" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable~partial.swiftmodule"
+  },
+  "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/EncoderDecoder.swift" : {
+    "const-values" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.swiftconstvalues",
+    "dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.d",
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.dia",
+    "index-unit-output-path" : "/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.o",
+    "llvm-bc" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.bc",
+    "object" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.o",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.swiftdeps",
+    "swiftmodule" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder~partial.swiftmodule"
+  },
+  "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/ServerTimestamp.swift" : {
+    "const-values" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.swiftconstvalues",
+    "dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.d",
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.dia",
+    "index-unit-output-path" : "/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.o",
+    "llvm-bc" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.bc",
+    "object" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.o",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.swiftdeps",
+    "swiftmodule" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp~partial.swiftmodule"
+  },
+  "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/SPMSwiftHeaderWorkaround.swift" : {
+    "const-values" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.swiftconstvalues",
+    "dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.d",
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.dia",
+    "index-unit-output-path" : "/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.o",
+    "llvm-bc" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.bc",
+    "object" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.o",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.swiftdeps",
+    "swiftmodule" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround~partial.swiftmodule"
+  }
+}

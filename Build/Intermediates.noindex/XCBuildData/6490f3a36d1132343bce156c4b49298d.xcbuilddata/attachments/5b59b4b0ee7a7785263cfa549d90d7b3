@@ -1,0 +1,4 @@
+module leveldb {
+umbrella "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/leveldb/include"
+export *
+}

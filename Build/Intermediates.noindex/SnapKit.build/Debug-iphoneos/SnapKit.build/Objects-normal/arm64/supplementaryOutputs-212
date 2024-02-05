@@ -1,0 +1,30 @@
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift":
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriority.swiftdeps"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriority.o"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriority.dia"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriority.d"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriority.swiftconstvalues"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift":
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.swiftconstvalues"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.swiftdeps"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.o"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.dia"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.d"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift":
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.d"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.dia"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.o"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.swiftconstvalues"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.swiftdeps"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift":
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintOffsetTarget.dia"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintOffsetTarget.d"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintOffsetTarget.o"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintOffsetTarget.swiftconstvalues"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintOffsetTarget.swiftdeps"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift":
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelation.dia"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelation.swiftconstvalues"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelation.d"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelation.swiftdeps"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelation.o"

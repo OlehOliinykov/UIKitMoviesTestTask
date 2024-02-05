@@ -1,0 +1,4 @@
+module FirebaseAnalyticsWithoutAdIdSupportWrapper {
+umbrella "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAnalyticsWithoutAdIdSupportWrapper/include"
+export *
+}

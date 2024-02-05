@@ -1,0 +1,4 @@
+module nanopb {
+umbrella "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/nanopb/spm_headers"
+export *
+}

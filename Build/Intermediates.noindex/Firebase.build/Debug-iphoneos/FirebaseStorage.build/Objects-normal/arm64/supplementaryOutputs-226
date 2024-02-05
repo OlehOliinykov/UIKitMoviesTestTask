@@ -1,0 +1,18 @@
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Result.swift":
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.swiftconstvalues"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.o"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.d"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.dia"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.swiftdeps"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Storage.swift":
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftconstvalues"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.d"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftdeps"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.dia"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.o"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageUtils.swift":
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageUtils.dia"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageUtils.swiftdeps"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageUtils.d"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageUtils.o"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageUtils.swiftconstvalues"

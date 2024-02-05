@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift-master.dia",
+    "emit-module-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift-master.swiftdeps"
+  },
+  "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfigSwift/Sources/FirebaseRemoteConfigSwift.swift" : {
+    "const-values" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift.swiftconstvalues",
+    "dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift.d",
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift.dia",
+    "index-unit-output-path" : "/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift.o",
+    "llvm-bc" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift.bc",
+    "object" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift.o",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift.swiftdeps",
+    "swiftmodule" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift~partial.swiftmodule"
+  }
+}

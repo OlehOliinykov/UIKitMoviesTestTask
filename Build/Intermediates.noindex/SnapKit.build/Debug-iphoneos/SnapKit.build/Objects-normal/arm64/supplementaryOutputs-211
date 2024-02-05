@@ -1,0 +1,30 @@
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift":
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.swiftdeps"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.o"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.dia"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.swiftconstvalues"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.d"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift":
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.swiftconstvalues"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.dia"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.o"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.d"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.swiftdeps"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift":
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.dia"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.o"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.swiftdeps"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.d"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.swiftconstvalues"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift":
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.o"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.d"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.dia"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.swiftdeps"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.swiftconstvalues"
+"/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift":
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.swiftconstvalues"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.o"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.swiftdeps"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.d"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.dia"

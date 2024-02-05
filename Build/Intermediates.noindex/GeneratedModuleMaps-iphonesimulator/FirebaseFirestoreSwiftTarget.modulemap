@@ -1,0 +1,4 @@
+module FirebaseFirestoreSwiftTarget {
+umbrella "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/SwiftPM-PlatformExclude/FirebaseFirestoreSwiftWrap/include"
+export *
+}

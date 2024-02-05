@@ -1,0 +1,4 @@
+module FirebaseRemoteConfigInternal {
+umbrella "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Sources/Public"
+export *
+}

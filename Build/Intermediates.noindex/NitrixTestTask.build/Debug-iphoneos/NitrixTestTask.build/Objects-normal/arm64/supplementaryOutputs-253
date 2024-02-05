@@ -1,0 +1,18 @@
+"/Users/olehcartelll/Documents/petProjects/NitrixTestTask/NitrixTestTask/Flows/Favourites/FavouritesController.swift":
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesController.swiftconstvalues"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesController.o"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesController.d"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesController.swiftdeps"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesController.dia"
+"/Users/olehcartelll/Documents/petProjects/NitrixTestTask/NitrixTestTask/Utils/Extensions/UIImageView+Ext.swift":
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/UIImageView+Ext.o"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/UIImageView+Ext.swiftconstvalues"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/UIImageView+Ext.d"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/UIImageView+Ext.swiftdeps"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/UIImageView+Ext.dia"
+"/Users/olehcartelll/Documents/petProjects/NitrixTestTask/NitrixTestTask/Flows/Films/FilmsViewModel.swift":
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FilmsViewModel.swiftconstvalues"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FilmsViewModel.d"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FilmsViewModel.swiftdeps"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FilmsViewModel.dia"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FilmsViewModel.o"

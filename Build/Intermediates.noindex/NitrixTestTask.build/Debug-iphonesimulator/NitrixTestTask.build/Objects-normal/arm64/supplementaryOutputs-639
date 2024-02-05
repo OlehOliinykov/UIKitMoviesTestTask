@@ -1,0 +1,18 @@
+"/Users/olehcartelll/Documents/petProjects/NitrixTestTask/NitrixTestTask/Models/FilmDetails.swift":
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetails.dia"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetails.swiftdeps"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetails.swiftconstvalues"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetails.o"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetails.d"
+"/Users/olehcartelll/Documents/petProjects/NitrixTestTask/NitrixTestTask/App/AppDelegate.swift":
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/AppDelegate.swiftconstvalues"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/AppDelegate.o"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/AppDelegate.dia"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/AppDelegate.d"
+"/Users/olehcartelll/Documents/petProjects/NitrixTestTask/NitrixTestTask/Flows/Films/Details/FilmDetailsViewController.swift":
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetailsViewController.dia"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetailsViewController.o"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetailsViewController.d"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetailsViewController.swiftconstvalues"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphonesimulator/NitrixTestTask.build/Objects-normal/arm64/FilmDetailsViewController.swiftdeps"

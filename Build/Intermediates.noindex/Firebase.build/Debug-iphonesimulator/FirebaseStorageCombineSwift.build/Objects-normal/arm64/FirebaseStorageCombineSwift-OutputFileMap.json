@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master.dia",
+    "emit-module-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master.swiftdeps"
+  },
+  "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Storage/Storage+Combine.swift" : {
+    "const-values" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.swiftconstvalues",
+    "dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.d",
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.dia",
+    "index-unit-output-path" : "/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.o",
+    "llvm-bc" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.bc",
+    "object" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.o",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.swiftdeps",
+    "swiftmodule" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine~partial.swiftmodule"
+  },
+  "/Users/olehcartelll/Library/Developer/Xcode/DerivedData/NitrixTestTask-acspcsipiuhhhffytntuszquzwqc/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Storage/StorageReference+Combine.swift" : {
+    "const-values" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.swiftconstvalues",
+    "dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.d",
+    "diagnostics" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.dia",
+    "index-unit-output-path" : "/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.o",
+    "llvm-bc" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.bc",
+    "object" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.o",
+    "swift-dependencies" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.swiftdeps",
+    "swiftmodule" : "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine~partial.swiftmodule"
+  }
+}

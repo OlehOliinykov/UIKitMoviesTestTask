@@ -1,0 +1,18 @@
+"/Users/olehcartelll/Documents/petProjects/NitrixTestTask/NitrixTestTask/Models/Film.swift":
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/Film.o"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/Film.dia"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/Film.swiftconstvalues"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/Film.swiftdeps"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/Film.d"
+"/Users/olehcartelll/Documents/petProjects/NitrixTestTask/NitrixTestTask/Services/APIKeyService.swift":
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/APIKeyService.d"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/APIKeyService.o"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/APIKeyService.dia"
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/APIKeyService.swiftdeps"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/APIKeyService.swiftconstvalues"
+"/Users/olehcartelll/Documents/petProjects/NitrixTestTask/NitrixTestTask/Flows/Favourites/Details/FavouritesDetailViewController.swift":
+  swift-dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesDetailViewController.swiftdeps"
+  diagnostics: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesDetailViewController.dia"
+  object: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesDetailViewController.o"
+  dependencies: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesDetailViewController.d"
+  const-values: "/Users/olehcartelll/Documents/petProjects/NitrixTestTask/Build/Intermediates.noindex/NitrixTestTask.build/Debug-iphoneos/NitrixTestTask.build/Objects-normal/arm64/FavouritesDetailViewController.swiftconstvalues"
